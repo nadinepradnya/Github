@@ -1,0 +1,639 @@
+{
+ "Data_Pemerintah": [
+    {
+      "id": 1, 
+      "wilayah": "Jakarta", 
+      "penduduk": 11000000, 
+      "pengangguran": 7.5 
+    },
+    {     
+      "id": 2, 
+      "wilayah": "Bandung", 
+      "penduduk": 3600000, 
+      "pengangguran": 6.1 
+    },
+    {     
+      "id": 3, 
+      "wilayah": "Surabaya", 
+      "penduduk": 3100000, 
+      "pengangguran": 5.7 
+    },
+    { 
+      "id": 4, 
+      "wilayah": "Medan", 
+      "penduduk": 2500000, 
+      "pengangguran": 6.3 
+    },
+    { 
+      "id": 5, 
+      "wilayah": "Makassar", 
+      "penduduk": 1700000, 
+      "pengangguran": 5.5 
+    },
+    { 
+      "id": 6, 
+      "wilayah": "Palembang", 
+      "penduduk": 1800000, 
+      "pengangguran": 6.0 
+    },
+    {
+      "id": 7, 
+      "wilayah": "Semarang", 
+      "penduduk": 2200000, 
+      "pengangguran": 5.1 
+    },
+    {
+      "id": 8, 
+      "wilayah": "Denpasar", 
+      "penduduk": 950000,
+      "pengangguran": 4.8 
+    },
+    { 
+      "id": 9,
+      "wilayah": "Jayapura",
+      "penduduk": 450000, 
+      "pengangguran": 7.8 
+    },
+    {
+      "id": 10, 
+      "wilayah": "Pontianak", 
+      "penduduk": 700000, 
+      "pengangguran": 6.9 
+    },
+    { 
+      "id": 11, 
+      "wilayah": "Yogyakarta", 
+      "penduduk": 4100000, 
+      "pengangguran": 4.3 
+    },
+    { 
+      "id": 12, 
+      "wilayah": "Banjarmasin", 
+      "penduduk": 750000, 
+      "pengangguran": 5.2 
+    },
+    { 
+      "id": 13, 
+      "wilayah": "Kupang", 
+      "penduduk": 480000, 
+      "pengangguran": 7.0 
+    },
+    { 
+      "id": 14, 
+      "wilayah": "Padang", 
+      "penduduk": 890000, 
+      "pengangguran": 5.8 
+    },
+    { 
+      "id": 15, 
+      "wilayah": "Ambon", 
+      "penduduk": 420000, 
+      "pengangguran": 8.1 
+    },
+    { 
+      "id": 16, 
+      "wilayah": "Manado", 
+      "penduduk": 500000, 
+      "pengangguran": 6.6 
+    },
+    { 
+      "id": 17, 
+      "wilayah": "Malang", 
+      "penduduk": 1700000, 
+      "pengangguran": 5.8 
+    },
+    { 
+      "id": 18, 
+      "wilayah": "Bogor", 
+      "penduduk": 2100000, 
+      "pengangguran": 6.0 
+    },
+    { 
+      "id": 19, 
+      "wilayah": "Bekasi", 
+      "penduduk": 2700000, 
+      "pengangguran": 6.5 
+    },
+    { 
+      "id": 20, 
+      "wilayah": "Cirebon", 
+      "penduduk": 1300000, 
+      "pengangguran": 5.9 
+    },
+    { 
+      "id": 21, 
+      "wilayah": "Pekanbaru", 
+      "penduduk": 1200000, 
+      "pengangguran": 7.1 
+    },
+    { 
+      "id": 22, 
+      "wilayah": "Batam", 
+      "penduduk": 1100000, 
+      "pengangguran": 6.8 
+    },
+    {
+      "id": 23, 
+      "wilayah": "Balikpapan", 
+      "penduduk": 700000,
+      "pengangguran": 5.3
+    },
+    {
+      "id": 24, 
+      "wilayah": "Samarinda",
+      "penduduk": 800000,
+      "pengangguran": 6.2
+    },
+    {
+      "id": 25,
+      "wilayah": "Mataram",
+      "penduduk": 540000,
+      "pengangguran": 6.0
+    }
+  ],
+
+  "Sensor_IoT": [
+    { 
+      "id": 1, 
+      "lokasi": "Jakarta", 
+      "pm25": 95,
+      "suhu": 33
+    },
+    {
+      "id": 2,
+      "lokasi": "Bandung",
+      "pm25": 60, 
+      "suhu": 29
+    },
+    {
+      "id": 3, 
+      "lokasi": "Surabaya", 
+      "pm25": 88, 
+      "suhu": 31
+    },
+    {
+      "id": 4, 
+      "lokasi": "Medan",
+      "pm25": 72, 
+      "suhu": 30
+    },
+    {
+      "id": 5,
+      "lokasi": "Makassar",
+      "pm25": 55, 
+      "suhu": 32
+    },
+    {
+      "id": 6,
+      "lokasi": "Palembang",
+      "pm25": 92, 
+      "suhu": 33
+    },
+    { 
+      "id": 7, 
+      "lokasi": "Semarang", 
+      "pm25": 77, 
+      "suhu": 30 
+    },
+    { 
+      "id": 8, 
+      "lokasi": "Denpasar", 
+      "pm25": 65, 
+      "suhu": 29
+    },
+    { 
+      "id": 9,
+      "lokasi": "Jayapura",
+      "pm25": 48,
+      "suhu": 28
+    },
+    { 
+      "id": 10,
+      "lokasi": "Pontianak",
+      "pm25": 100,
+      "suhu": 34
+    },
+    { 
+      "id": 11,
+      "lokasi": "Yogyakarta",
+      "pm25": 70,
+      "suhu": 30
+    },
+    { 
+      "id": 12,
+      "lokasi": "Banjarmasin",
+      "pm25": 90,
+      "suhu": 33
+    },
+    { 
+      "id": 13,
+      "lokasi": "Kupang",
+      "pm25": 45,
+      "suhu": 29
+    },
+    { 
+      "id": 14,
+      "lokasi": "Padang",
+      "pm25": 68,
+      "suhu": 31
+    },
+    { 
+      "id": 15,
+      "lokasi": "Ambon",
+      "pm25": 55,
+      "suhu": 29
+    },
+    { 
+      "id": 16,
+      "lokasi": "Manado",
+      "pm25": 60,
+      "suhu": 30
+    },
+    { 
+      "id": 17,
+      "lokasi": "Malang",
+      "pm25": 66,
+      "suhu": 28
+    },
+    { 
+      "id": 18,
+      "lokasi": "Bogor",
+      "pm25": 75,
+      "suhu": 29
+    },
+    { 
+      "id": 19,
+      "lokasi": "Bekasi",
+      "pm25": 82,
+      "suhu": 32
+    },
+    { 
+      "id": 20,
+      "lokasi": "Cirebon",
+      "pm25": 80,
+      "suhu": 31
+    },
+    { 
+      "id": 21,
+      "lokasi": "Pekanbaru",
+      "pm25": 120,
+      "suhu": 34
+    },
+    { 
+      "id": 22,
+      "lokasi": "Batam",
+      "pm25": 67,
+      "suhu": 30
+    },
+    { 
+      "id": 23,
+      "lokasi": "Balikpapan",
+      "pm25": 72, 
+      "suhu": 31
+    },
+    { 
+      "id": 24,
+      "lokasi": "Samarinda",
+      "pm25": 78,
+      "suhu": 32
+    },
+    { 
+      "id": 25,
+      "lokasi": "Mataram",
+      "pm25": 58,
+      "suhu": 30
+    }
+  ],
+
+  "Media_Sosial": [
+    { 
+      "id": 1, 
+      "platform": "Twitter",
+      "wilayah": "Jakarta",
+      "isu": "kemacetan",
+      "sentimen": "negatif" 
+    },
+    { 
+      "id": 2,
+      "platform": "Facebook",
+      "wilayah": "Bandung",
+      "isu": "banjir",
+      "sentimen": "negatif"
+    },
+    { 
+      "id": 3,
+      "platform": "Instagram",
+      "wilayah": "Surabaya",
+      "isu": "festival budaya",
+      "sentimen": "positif"
+    },
+    { 
+      "id": 4,
+      "platform": "Twitter",
+      "wilayah": "Medan", 
+      "isu": "harga sembako naik",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 5,
+      "platform": "Facebook",
+      "wilayah": "Makassar",
+      "isu": "jalan rusak",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 6,
+      "platform": "Twitter",
+      "wilayah": "Palembang",
+      "isu": "pemadaman listrik",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 7,
+      "platform": "Instagram",
+      "wilayah": "Semarang",
+      "isu": "pariwisata",
+      "sentimen": "positif"
+    },
+    {
+      "id": 8, 
+      "platform": "Facebook", 
+      "wilayah": "Denpasar",
+      "isu": "kemacetan", 
+      "sentimen": "negatif"
+    },
+    {
+      "id": 9, 
+      "platform": "Twitter",
+      "wilayah": "Jayapura", 
+      "isu": "demonstrasi",
+      "sentimen": "negatif" 
+    },
+    {
+      "id": 10,
+      "platform": "Instagram",
+      "wilayah": "Pontianak",
+      "isu": "festival kuliner",
+      "sentimen": "positif"
+    },
+    {  
+      "id": 11,
+      "platform": "Twitter",
+      "wilayah": "Yogyakarta",
+      "isu": "pendidikan",
+      "sentimen": "positif"
+    },
+    {
+      "id": 12,
+      "platform": "Facebook",
+      "wilayah": "Banjarmasin",
+      "isu": "banjir",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 13,
+      "platform": "Twitter",
+      "wilayah": "Kupang",
+      "isu": "cuaca ekstrem",
+      "sentimen": "negatif"
+    }, 
+    {
+      "id": 14,
+      "platform": "Instagram",
+      "wilayah": "Padang",
+      "isu": "event olahraga",
+      "sentimen": "positif"
+    },
+    {
+      "id": 15,
+      "platform": "Facebook",
+      "wilayah": "Ambon",
+      "isu": "harga BBM naik",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 16,
+      "platform": "Twitter",
+      "wilayah": "Manado",
+      "isu": "festival musik",
+      "sentimen": "positif"
+    },
+    {
+      "id": 17,
+      "platform": "Instagram",
+      "wilayah": "Malang",
+      "isu": "wisata alam", 
+      "sentimen": "positif"
+    },
+    {  
+      "id": 18,
+      "platform": "Twitter",
+      "wilayah": "Bogor",
+      "isu": "hujan deras",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 19,
+      "platform": "Facebook",
+      "wilayah": "Bekasi",
+      "isu": "kemacetan", 
+      "sentimen": "negatif"
+    },
+    { 
+      "id": 20,
+      "platform": "Twitter",
+      "wilayah": "Cirebon",
+      "isu": "harga beras naik",
+      "sentimen": "negatif"   
+    },
+    {
+      "id": 21,
+      "platform": "Instagram",
+      "wilayah": "Pekanbaru",
+      "isu": "asap kebakaran hutan",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 22,
+      "platform": "Facebook",
+      "wilayah": "Batam",
+      "isu": "pencurian",
+      "sentimen": "negatif"
+    },
+    {
+      "id": 23,
+      "platform": "Twitter",
+      "wilayah": "Balikpapan",
+      "isu": "pemadaman listrik",
+      "sentimen": "negatif"
+    },
+    { 
+      "id": 24,
+      "platform": "Instagram",
+      "wilayah": "Samarinda",
+      "isu": "festival budaya",
+      "sentimen": "positif"
+    },
+    { 
+      "id": 25,
+      "platform": "Twitter",
+      "wilayah": "Mataram",
+      "isu": "jalan berlubang",
+      "sentimen": "negatif" 
+    }
+  ],
+ 
+
+  "Pelaporan_Warga": [
+    {
+      "id": 1,
+      "wilayah": "Jakarta",
+      "laporan": "banjir di Cempaka Putih",
+      "status": "diproses"
+    },
+    {
+      "id": 2,
+      "wilayah": "Bandung",
+      "laporan": "kebakaran rumah",
+      "status": "selesai"
+    },
+    {
+      "id": 3,
+      "wilayah": "Surabaya",
+      "laporan": "jalan rusak",
+      "status": "diproses"
+    },
+    {
+      "id": 4,
+      "wilayah": "Medan",
+      "laporan": "sampah menumpuk",
+      "status": "baru"
+    },
+    {
+      "id": 5,
+      "wilayah": "Makassar",
+      "laporan": "pohon tumbang",
+      "status": "selesai"
+    },
+    {   
+      "id": 6,
+      "wilayah": "Palembang",
+      "laporan": "jalan tergenang",
+      "status": "diproses"
+    },
+    {
+      "id": 7,
+      "wilayah": "Semarang",
+      "laporan": "kemacetan parah",
+      "status": "baru"
+    },
+    {
+      "id": 8,
+      "wilayah": "Denpasar",
+      "laporan": "lampu lalu lintas mati",
+      "status": "selesai"
+    },
+    {
+      "id": 9,
+      "wilayah": "Jayapura",
+      "laporan": "demonstrasi mahasiswa",
+      "status": "diproses"
+    },
+    {
+      "id": 10,
+      "wilayah": "Pontianak",
+      "laporan": "banjir bandang",
+      "status": "baru"
+    },
+    {
+      "id": 11,
+      "wilayah": "Yogyakarta",
+      "laporan": "jalan berlubang",
+      "status": "selesai"
+    },
+    {
+      "id": 12,
+      "wilayah": "Banjarmasin",
+      "laporan": "kebakaran pasar",
+      "status": "diproses"
+    },
+    {
+      "id": 13,
+      "wilayah": "Kupang",
+      "laporan": "hujan angin",
+      "status": "baru"
+    },
+    {
+      "id": 14,
+      "wilayah": "Padang",
+      "laporan": "longsor di perbukitan",
+      "status": "diproses"
+    },
+    {
+      "id": 15,
+      "wilayah": "Ambon",   
+      "laporan": "harga sembako naik",
+      "status": "baru"
+    },
+    {
+      "id": 16,
+      "wilayah": "Manado",  
+      "laporan": "banjir di pusat kota",
+      "status": "selesai"
+    },
+    {
+      "id": 17,
+      "wilayah": "Malang",
+      "laporan": "kecelakaan lalu lintas",
+      "status": "diproses"
+    },
+    {
+      "id": 18,
+      "wilayah": "Bogor",
+      "laporan": "hujan deras",
+      "status": "selesai"
+    },
+    {
+      "id": 19,
+      "wilayah": "Bekasi",
+      "laporan": "sampah menumpuk",
+      "status": "diproses"
+    },
+    { 
+      "id": 20,
+      "wilayah": "Cirebon",
+      "laporan": "jalan rusak parah",
+      "status": "baru"
+    },
+    {  
+      "id": 21,
+      "wilayah": "Pekanbaru",
+      "laporan": "asap pekat",
+      "status": "diproses"
+    },
+    {
+      "id": 22,
+      "wilayah": "Batam",
+      "laporan": "pencurian motor",
+      "status": "selesai"
+    },
+    {
+      "id": 23,
+      "wilayah": "Balikpapan",
+      "laporan": "pemadaman listrik",
+      "status": "baru"
+    },
+    { 
+      "id": 24,
+      "wilayah": "Samarinda",
+      "laporan": "banjir di pinggiran kota",
+      "status": "diproses"
+    },
+    {
+      "id": 25,
+      "wilayah": "Mataram",
+      "laporan": "jalan retak akibat gempa",
+      "status": "baru"
+    }
+  ]
+}
